@@ -1,0 +1,74 @@
+[
+{ 
+    "id": 1, 
+    "name": "Mercury da Vinci series  skal", 
+    "price": 100, 
+    "collection": "summer -19",
+    "type": "Mobilskal",
+    "material": "Plast",
+    "image": "https://skalhuset.se/upload/produktbilder/da-vinci-series-skal-till-iphone-8-7-tpu-monster-rosa-101111491C_1.jpg" 
+},
+{ 
+    "id": 2, 
+    "name": "Skärmskydd i härdat glas", 
+    "price": 249, 
+    "collection": "fall -18",
+    "type": "Skärmskydd",
+    "material": "Glas", 
+    "image": "https://skalhuset.se/upload/produktbilder/samsung-galaxy-note-10-plus-skarmskydd-i-hardat-glas-full-size-103510645A_1.jpg" 
+},
+{ 
+    "id": 3, 
+    "name": "iPhone läderfodral", 
+    "price": 500, 
+    "collection": "summer -17",
+    "type": "Plånboksskal",
+    "material": "Läder", 
+    "image": "https://skalhuset.se/upload/produktbilder/apple-iphone-7-akta-lader-planboksfodral-svart-117-122-008_QB_2.jpg" 
+},
+{ 
+    "id": 4, 
+    "name": "Nillkin Defender II", 
+    "price": 699, 
+    "collection": "spring -19",
+    "type": "Mobilskal",
+    "material": "Titan", 
+    "image": "https://skalhuset.se/upload/produktbilder/defender-ii-series-skal-till-iphone-7-8-stotsakert-svart--101109737A_1.jpg" 
+},
+{ 
+    "id": 5, 
+    "name": "Wild Blossom", 
+    "price": 399, 
+    "collection": "Negin Mirsalehi",
+    "type": "Mobilskal",
+    "material": "Plast", 
+    "image": "https://ideal-products-production.imgix.net/images/2545_be2242a92c-idfcng-ixs-144_1-original.jpg"
+    },
+    { 
+        "id": 6, 
+        "name": "Crayon Bird", 
+        "price": 299, 
+        "collection": "La Escuela ideal",
+        "type": "Mobilskal",
+        "material": "Plast",
+        "image": "https://ideal-products-production.imgix.net/images/2990_0dce89309f-idfcei-ixs-140_1-original.jpg" 
+    },
+    { 
+        "id": 7, 
+        "name": "Green Velvet", 
+        "price": 499, 
+        "collection": "Mayfair Clutch",
+        "type": "Plånboksskal",
+        "material": "Sammet och mikrofibrer",
+        "image": "https://ideal-products-production.imgix.net/images/320_2617602a1e-idmcv-i8-100_1-original.jpg" 
+    },
+    { 
+        "id": 8, 
+        "name": "Black", 
+        "price": 399, 
+        "collection": "Swipe Wallet",
+        "type": "Plånboksskal",
+        "material": "Läder",
+        "image": "https://ideal-products-production.imgix.net/images/793_c65bd4f380-idswip5spp03_4-original.jpg" 
+    }   
+]
